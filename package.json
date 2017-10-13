@@ -1,0 +1,27 @@
+{
+  "name": "helloworldbot",
+  "version": "1.0.0",
+  "description": "Build a bot in Node.js on Microsoft Bot Framework.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingrich5/helloworldbot.git"
+  },
+  "keywords": [
+    "bot",
+    "rich"
+  ],
+  "author": "Rich Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingrich5/helloworldbot/issues"
+  },
+  "homepage": "https://github.com/kingrich5/helloworldbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.0.1"
+  }
+}
